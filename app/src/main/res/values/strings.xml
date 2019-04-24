@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">20190422-UdayKumarChimata-NYCSchools</string>
+    <string name="school_sat_data">School Sat Data</string>
+    <string name="sat_test_takers">sat test takers</string>
+    <string name="avg_math_score">avg math score</string>
+    <string name="avg_critical_reading_score">avg critical reading score</string>
+    <string name="avg_writing_score">avg writing score</string>
+    <string name="school_sat_headline">The Sat Data for %1$s </string>
+    <string name="schools_list">Schools List</string>
+
+</resources>
